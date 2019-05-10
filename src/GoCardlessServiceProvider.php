@@ -1,8 +1,8 @@
 <?php
-namespace Ollywarren\LaravelGoCardless;
+namespace Pestopancake\LaravelGoCardless;
 
 use Illuminate\Support\ServiceProvider;
-use Ollywarren\LaravelGoCardless\Services\GoCardlessService;
+use Pestopancake\LaravelGoCardless\Services\GoCardlessService;
 
 class GoCardlessServiceProvider extends ServiceProvider
 {

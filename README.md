@@ -41,7 +41,7 @@ Then inside your ```config/app.php```
 
 Add the package service provider to the providers array:
 
-``` Ollywarren\LaravelGoCardless\GoCardlessServiceProvider::class, ```
+``` Pestopancake\LaravelGoCardless\GoCardlessServiceProvider::class, ```
 
 Finally for good measure dump the composer autoloader to make sure we've pulled in the helper method:
 
